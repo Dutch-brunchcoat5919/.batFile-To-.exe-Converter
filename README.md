@@ -31,7 +31,12 @@ No Python. No Node.js. No third-party software. Just a `.bat` file and your targ
 > ✅ Works on Windows 7, 8, 10, and 11 — no additional runtime needed.
 
 ---
+Terminal Overview 
+<div align="center">
+  <img src="terminal-demo.svg" alt="BAT2EXE Terminal Demo" />
+</div>
 
+##
 ## ✨ Features
 
 | Feature | Description |
